@@ -41,7 +41,7 @@ Login sayfasına admin girişi eklendi → Şifre ile giriş yapılabiliyor, adm
 
 Çıkış yap butonu hatası giderildi → Basıldığında artık doğru şekilde login sayfasına yönlendiriliyor.
 
-Versiyon 3.5
+### Versiyon 3.5
 
 Normal kullanıcı girişinde admin paneline erişim açıldı → Hızlı test yapılabilmesi için geçici çözüm sağlandı.
 
